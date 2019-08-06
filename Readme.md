@@ -5,3 +5,6 @@
 	Saiba mais em [github.com/kejrra](https://github.com/kejrra)
 
 	Gostei do curso! Ajudei comprando cursos do Autor.
+
+	Teste nova mod no Readme.md
+	
